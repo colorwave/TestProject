@@ -1,6 +1,10 @@
 # Bootstrap
 app/bootstrap*
 
+# IDE
+/nbproject/*
+/.idea/*
+
 # Symfony directories
 vendor/*
 */logs/*
