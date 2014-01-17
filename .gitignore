@@ -1,6 +1,9 @@
 # Bootstrap
 app/bootstrap*
 
+# Vagrant
+/.vagrant
+
 # IDE
 /nbproject
 /.idea
