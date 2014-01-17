@@ -2,8 +2,8 @@
 app/bootstrap*
 
 # IDE
-/nbproject/*
-/.idea/*
+/nbproject
+/.idea
 
 # Symfony directories
 vendor/*
